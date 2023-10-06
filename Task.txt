@@ -1,0 +1,13 @@
+1. how to you generated auth token in ssh login.(done)
+2. how to you change a exicting log message.(reset author)(done)
+3. how to you revert git add & commit.(done)
+4. how to you recover a deleted branch (done)
+5. how to cherry pick
+6. git tag, git reflog, git status, git dif.(done)
+7. git pull/fetch/clone
+8. git stash
+9. note git branch statergy & git flow.
+
+
+
+
